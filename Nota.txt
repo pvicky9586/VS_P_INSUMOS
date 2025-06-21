@@ -1,0 +1,8 @@
+Pasos de instalacion
+1. abra la carpeta comprimida
+2. de click en el archivo ControLSInsumos
+3. siga los pasos tradicionales de instalacion, 
+   la aplicacion se abrira automaticamente
+
+ESTUDIE LA GUIA Documentacion y Uso.pdf
+ para conocer sobre el funcionamiento y validaciones
